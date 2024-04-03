@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DenniswuQA
 - 👀 I’m interested in testing automation
-- 🌱 I’m currently learning selenium in python 
+- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... denniswu228@gmail.com
+- 📫 How to reach me ... 
 - 
 
 <!---
